@@ -1,0 +1,2 @@
+Developed by Divyadharshni K V 
+Built with Django and uses Bootstarp for styling.
